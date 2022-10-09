@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juriemaeac, a computer engineering student who loves to code!
 - 👀 I’m interested in developing software applications.
-- 🌱 I’m currently in depth learning flutter.
-- 💞️ I’m looking to collaborate with those who needs help in their projects.
+- 🌱 I’m currently in-depth learning flutter.
+- 💞️ I’m looking to collaborate with those who needs help in their projects/research/thesis.
 - 📫 Reach me in my email: juriemaea@gmail.com or message me in LinkedIn! :>
 
 <!---
