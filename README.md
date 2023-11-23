@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juriemaeac, a computer engineering student who loves to code!
+- 👋 Hi, I’m @juriemaeac, a computer engineer who loves to code!
 - 👀 I’m interested in developing software applications, particularly utilizing Flutter.
 - 🌱 I’m currently in-depth learning flutter.
 - 💞️ I’m looking to collaborate with those who needs help in their projects/research/thesis.
