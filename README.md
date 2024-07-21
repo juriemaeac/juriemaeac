@@ -3,6 +3,7 @@
 - 🌱 I’m currently in-depth learning flutter.
 - 💞️ I’m looking to collaborate with professionals and organizations who require assistance with their projects.
 - 📫 Reach me in my email: juriemaea@gmail.com or message me in LinkedIn! :>
+- ☎️ Contact me to view my private repositories!
 
 <!---
 juriemaeac/juriemaeac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
